@@ -4,6 +4,8 @@ A machine learning project that predicts HackerNews post scores using title embe
 
 ![Project Logo](word_embeddings.png)
 
+[HackerNews Prediction Presentation](https://docs.google.com/presentation/d/19nbAudhtTa2ioSMViiQe1GDkp39ALwXAk3diBRNhKvw/edit?slide=id.p#slide=id.p)
+
 ## 🚀 Features
 
 - **Data Pipeline**: Automated extraction of HackerNews data from PostgreSQL database to Parquet format
