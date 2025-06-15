@@ -1,0 +1,21 @@
+{
+  "learning_rate": 0.003,
+  "hidden_dim": 128,
+  "dropout_rate": 0.1,
+  "weight_decay": 1e-05,
+  "patience": 25,
+  "max_epochs": 50,
+  "architecture": "numerical_plus_title",
+  "timestamp": "2025-06-13T13:55:08.624117",
+  "run_directory": "artifacts/training_runs/run_20250613_134854",
+  "val_r2": 0.08098523432931826,
+  "test_r2": 0.08132260995624974,
+  "test_loss": 1.0120985507965088,
+  "epochs_trained": 50,
+  "numerical_dim": 36,
+  "title_dim": 200,
+  "total_samples": 548342,
+  "train_samples": 329004,
+  "val_samples": 109669,
+  "test_samples": 109669
+}

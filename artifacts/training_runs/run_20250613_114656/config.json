@@ -1,0 +1,15 @@
+{
+  "learning_rate": 0.002,
+  "hidden_dim": 128,
+  "dropout_rate": 0.1,
+  "weight_decay": 1e-05,
+  "patience": 50,
+  "max_epochs": 10,
+  "architecture": "numerical_plus_title",
+  "timestamp": "2025-06-13T11:48:40.403710",
+  "run_directory": "artifacts/training_runs/run_20250613_114656",
+  "val_r2": -7.987425582980254,
+  "test_r2": -7.99269169620753,
+  "test_loss": 9.907167434692383,
+  "model_state": {
+    "numerical_net.0.weight": 
