@@ -2,6 +2,8 @@
 
 A machine learning project that predicts HackerNews post scores using title embeddings and feature engineering. The project implements a complete pipeline from data ingestion to deployment using Word2Vec embeddings, feature engineering, and a Dockerized web interface.
 
+![Project Logo](word_embeddings.png)
+
 ## 🚀 Features
 
 - **Data Pipeline**: Automated extraction of HackerNews data from PostgreSQL database to Parquet format
@@ -145,8 +147,7 @@ The application will be available at `http://localhost:8888`
 
 5. **Run the backend API**
    ```bash
-   cd backend
-   python main.py
+   uvicorn backend.main:app
    ```
 
 6. **Run the Streamlit frontend**
