@@ -219,13 +219,6 @@ model = train_model(
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- HackerNews API for providing the dataset
-- PyTorch team for the deep learning framework
-- Streamlit for the web interface framework
-- Open source community for various tools and libraries used
-
 ---
 
 **Note**: This project is for educational and research purposes. The model predictions should not be used as the sole basis for content strategy decisions. 
